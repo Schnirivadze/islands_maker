@@ -1,0 +1,11 @@
+C:\Projects\с#\islands_maker\islands_maker\bin\Debug\islands_maker.exe.config
+C:\Projects\с#\islands_maker\islands_maker\bin\Debug\islands_maker.exe
+C:\Projects\с#\islands_maker\islands_maker\bin\Debug\islands_maker.pdb
+C:\Projects\с#\islands_maker\islands_maker\obj\Debug\islands_maker.csproj.AssemblyReference.cache
+C:\Projects\с#\islands_maker\islands_maker\obj\Debug\islands_maker.Form1.resources
+C:\Projects\с#\islands_maker\islands_maker\obj\Debug\islands_maker.Properties.Resources.resources
+C:\Projects\с#\islands_maker\islands_maker\obj\Debug\islands_maker.csproj.GenerateResource.cache
+C:\Projects\с#\islands_maker\islands_maker\obj\Debug\islands_maker.csproj.CoreCompileInputs.cache
+C:\Projects\с#\islands_maker\islands_maker\obj\Debug\islands_maker.exe
+C:\Projects\с#\islands_maker\islands_maker\obj\Debug\islands_maker.pdb
+C:\Projects\с#\islands_maker\islands_maker\obj\Debug\islands_maker.csproj.SuggestedBindingRedirects.cache
